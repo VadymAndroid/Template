@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_container"
+    android:name="com.example.template.ui.main.MainFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<layout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools">-->
+
+<!--    <data>-->
+
+<!--        <import type="com.example.template.ui.main.MainActivity" />-->
+
+<!--        <variable-->
+<!--            name="viewModel"-->
+<!--            type="MainActivity" />-->
+
+<!--    </data>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical">-->
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Hello World!" />-->
+
+<!--&lt;!&ndash;        <fragment&ndash;&gt;-->
+<!--&lt;!&ndash;            android:name="com.example.template.ui.main.MainFragment"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent" />&ndash;&gt;-->
+<!--    </LinearLayout>-->
+<!--</layout>-->
